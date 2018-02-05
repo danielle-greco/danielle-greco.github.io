@@ -35,13 +35,15 @@ fix this?**
 
 **5. Your boss has no idea what Git is or why you are using it. Explain 
 the pros / cons of using Git for your research project.**
+   
    Pros: Easy to return to previous versions 
-	 Allows you to keep track of what's been done
+   	Allows you to keep track of what's been done
    Cons: Takes some time to learn how to use
 
 **Explain the pros / cons of hosting your project in a public (or private) repository on
 Github/Bitbucket/Gitlab/etc.**
+   
    Pros: Easy to collaborate with others
-	 Accessible anywhere with internet access
-	 Won't lose data
+   	Accessible anywhere with internet access
+   	Won't lose data
    Cons: All data is public unless you are willing to pay for a private repo
