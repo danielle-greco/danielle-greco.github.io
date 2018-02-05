@@ -3,7 +3,7 @@
 
 **1. When should you use Git for a project?**
 
-   Git should be used for a project when there will be multiple people 
+   Git should be used when there will be multiple people 
 working on one project and multiple versions of that project. Git 
 allows users to access the same file simultaenously and provides an easy 
 way to consolidate all versions. 
