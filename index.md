@@ -37,19 +37,19 @@ fix this?**
 the pros / cons of using Git for your research project.**
    
    Pros:
-   ..* Easy to return to previous versions 
-   ..* Allows you to keep track of what's been done
+   + Easy to return to previous versions 
+   + Allows you to keep track of what's been done
    
    Cons:
-   ..* Takes some time to learn how to use
+   + Takes some time to learn how to use
 
 **Explain the pros / cons of hosting your project in a public (or private) repository on
 Github/Bitbucket/Gitlab/etc.**
    
    Pros:
-..* Easy to collaborate with others
-..* Accessible anywhere with internet access
-..* Won't lose data
+   + Easy to collaborate with others
+   + Accessible anywhere with internet access
+   + Won't lose data
    
    Cons: 
-..* All data is public unless you are willing to pay for a private repo
+   + All data is public unless you are willing to pay for a private repo
